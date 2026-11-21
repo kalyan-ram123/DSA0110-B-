@@ -1,0 +1,4 @@
+Airport weekday peak: 7200 paise
+Airport weekend: 5400 paise
+Covered-zone pass trip: 0 paise
+Uncovered-zone trip: 3000 paise

@@ -1,0 +1,11 @@
+Compiler: g++ (Debian 14.2.0) 14.2.0
+Command:
+g++ -std=c++17 -Wall -Wextra -pedantic main.cpp -o main
+
+Observed diagnostic:
+main.cpp: warning: comparison of integer expressions of different signedness: 'int' and 'unsigned int' [-Wsign-compare]
+
+Cause:
+The expression s < u compares signed int s with unsigned int u. The usual arithmetic conversions convert s to unsigned int before comparison. With s = -1 and u = 1, the converted value of s is a large unsigned value, so the comparison is false.
+
+No other task program emitted compiler warnings with the stated flags in the local verification run.

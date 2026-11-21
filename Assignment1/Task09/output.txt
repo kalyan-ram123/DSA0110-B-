@@ -1,0 +1,12 @@
+Inner off-peak: expected=1000 actual=1000 PASS
+Middle off-peak: expected=2000 actual=2000 PASS
+Outer off-peak: expected=3000 actual=3000 PASS
+Inner 08:00: expected=1200 actual=1200 PASS
+Inner 10:00: expected=1000 actual=1000 PASS
+Inner 17:00: expected=1200 actual=1200 PASS
+Inner 20:00: expected=1000 actual=1000 PASS
+Unknown zone: expected=-1 actual=-1 PASS
+Invalid hour: expected=-1 actual=-1 PASS
+Fare tests passed: 9/9
+Negative recharge accepted? false; balance unchanged? true
+Five-trip hand total paise: 12000

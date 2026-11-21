@@ -1,0 +1,3 @@
+Recommended integer-paise fare: 3600
+Can travel: true
+Time per fare: O(1); extra space: O(1)

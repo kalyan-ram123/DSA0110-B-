@@ -1,0 +1,2 @@
+Procedural accepted: true, balance: 7000
+OOP accepted: true, balance: 7000

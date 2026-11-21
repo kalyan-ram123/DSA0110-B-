@@ -1,0 +1,7 @@
+sizeof(bool/int/long long/double): 1/4/8/8
+INT_MIN..INT_MAX: -2147483648..2147483647
+LLONG_MAX: 9223372036854775807
+Network total paise: 10800000000 (int-safe? no)
+Double sum of 1,000,000 x Rs 0.10: 100000.0000013329
+Exact integer-paise sum in rupees: 100000.0000000000
+Difference in rupees: 0.0000013329

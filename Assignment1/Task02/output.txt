@@ -1,0 +1,3 @@
+1000 2000 3000
+Peak %: 20
+Minimum paise: 5000

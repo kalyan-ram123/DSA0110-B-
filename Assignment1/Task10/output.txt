@@ -1,0 +1,4 @@
+20000 journeys: integer paise=72000000, double rupees=720000.00, difference in paise=0.000000, int-safe? yes
+500000 journeys: integer paise=1800000000, double rupees=18000000.00, difference in paise=0.000000, int-safe? yes
+3000000 journeys: integer paise=10800000000, double rupees=108000000.00, difference in paise=0.000000, int-safe? no
+INT_MAX=2147483647, LLONG_MAX=9223372036854775807

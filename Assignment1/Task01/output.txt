@@ -1,0 +1,3 @@
+Fare paise: 3000
+Accepted: true
+Balance paise: 7000

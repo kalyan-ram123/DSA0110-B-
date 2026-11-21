@@ -1,0 +1,6 @@
+3 3.5
+C 68
+1 true
+s >= u
+
+Compiler warning with -Wall -Wextra -pedantic: signed/unsigned comparison in (s < u).
